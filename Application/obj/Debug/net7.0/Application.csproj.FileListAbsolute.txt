@@ -1,0 +1,17 @@
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\bin\Debug\net7.0\Application.deps.json
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\bin\Debug\net7.0\Application.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\bin\Debug\net7.0\Application.pdb
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\bin\Debug\net7.0\Domain.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\bin\Debug\net7.0\Persistence.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\bin\Debug\net7.0\Domain.pdb
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\bin\Debug\net7.0\Persistence.pdb
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\Application.pdb
+D:\Project\Web-Projects\IMP Projects\student-management-system\Application\obj\Debug\net7.0\ref\Application.dll

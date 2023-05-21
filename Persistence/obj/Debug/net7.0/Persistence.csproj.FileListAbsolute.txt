@@ -1,0 +1,15 @@
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Project\Web-Projects\IMP Projects\student-management-system\Persistence\obj\Debug\net7.0\ref\Persistence.dll
